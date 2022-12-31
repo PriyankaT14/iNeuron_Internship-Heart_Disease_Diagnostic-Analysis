@@ -32,17 +32,11 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 	Make Dashboard with extracted information from data.
 	Find key metrics and factors and show relationship between attributes.
 
-### Conclusion:
-»	Almost 45.87 %  of people are suffering from Heart Disease
-»	 Males and Old Age group people are more prone to Heart Disease
-»	 Males in Old Age (50 – 60 Years) and Females in Old Age (55 – 65 Years) category suffer from Heart Disease more
-»	 People experiencing Asymptomatic Chest Pain have a higher chance to have Heart Disease
-»	 Maximum Heart Rate, Blood Pressure , Cholesterol is observed between the age 50 -60 
-»	Cholesterol level of people having Heart Disease is High
-»	 ST Depression Peak (Flat and Upsloping) is seen more in old Age people having Heart Disease 
-
 ### Dataset Link:
+https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3YQ8?
+usp=sharing
 
-### Tableau link: 
+### Tableau Public link:
+https://public.tableau.com/app/profile/priyanka.tanpure/viz/HeartDiseaseDiagnostic-AnalysisiNeuronInternship/Dashboard1
 
 ### Linkedin Link: 
