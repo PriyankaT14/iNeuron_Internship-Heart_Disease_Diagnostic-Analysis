@@ -1,10 +1,15 @@
 # iNeuron_Internship-Heart_Disease_Diagnostic-Analysis
 
 __Project Title:__  Heart Disease Diagnostic - Analysis
+
 __Technology:__ Business Intelligence
+
 __Domain:__ Healthcare
+
 __Project Difficulty Level:__ Advanced
+
 __Programming Language Used:__ Python
+
 __Tools Used:__ Jupyter Notebook, MS-Excel, Tableau
 
 ### Project Introduction
